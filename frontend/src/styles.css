@@ -1,0 +1,8 @@
+body{font-family: Arial, Helvetica, sans-serif; background:#fff; color:#222; margin:0;}
+.container{max-width:900px;margin:20px auto;padding:20px;border:1px solid #eee;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.03);}
+.header{display:flex;justify-content:space-between;align-items:center;}
+input,textarea{padding:8px;margin:6px 0;border:1px solid #ddd;border-radius:4px;width:100%;box-sizing:border-box;}
+button{padding:8px 12px;border:none;border-radius:6px;background:#2b6cb0;color:#fff;cursor:pointer;}
+.post{border-top:1px solid #f0f0f0;padding:12px 0;}
+.comment{margin-left:12px;padding:6px;border-left:2px solid #eee;}
+.small{font-size:0.9em;color:#555;}
